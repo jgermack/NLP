@@ -23,3 +23,9 @@ and a compound sentiment score.
 This example scrapes a web page and gathers the lyrics to songs by  
 the Talking Heads. There are also examples for taking the result  
 and creating a JSON file and uploading the file to a MongoDB database.
+
+**Word2Vec**  
+**xx**  
+
+A corpus of Presidental inauguration texts  
+was used to create word embeddings in this example.
